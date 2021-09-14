@@ -1,0 +1,19 @@
+{
+    "identifier": "OPTIDXFINNIFTY30-09-2021PE18100.00",
+    "name": "FINNIFTY",
+    "grapthData": [
+        [
+            1631611456000,
+            0
+        ],
+        [
+            1631612448000,
+            0
+        ],
+        [
+            1631616441000,
+            0
+        ]
+    ],
+    "closePrice": 2092.95
+}

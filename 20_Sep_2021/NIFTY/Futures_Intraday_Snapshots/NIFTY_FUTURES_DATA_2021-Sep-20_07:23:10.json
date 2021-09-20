@@ -1,0 +1,87 @@
+{
+    "data": [
+        {
+            "underlying": "NIFTY",
+            "identifier": "FUTIDXNIFTY30-09-2021XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "NIFTY 30-Sep-2021",
+            "expiryDate": "30-Sep-2021",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 17513,
+            "change": -90.15,
+            "pChange": -0.51,
+            "volume": 5442550,
+            "totalTurnover": 95391737126.5,
+            "value": 95391737126.5,
+            "premiumTurnOver": 95391737126.5,
+            "underlyingValue": 17525,
+            "openInterest": 292805,
+            "noOfTrades": 108670,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "NIFTY",
+            "identifier": "FUTIDXNIFTY28-10-2021XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "NIFTY 28-Oct-2021",
+            "expiryDate": "28-Oct-2021",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 17544.6,
+            "change": -88.85,
+            "pChange": -0.5,
+            "volume": 540600,
+            "totalTurnover": 9493990170,
+            "value": 9493990170,
+            "premiumTurnOver": 9493990170,
+            "underlyingValue": 17525,
+            "openInterest": 29784,
+            "noOfTrades": 10808,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "NIFTY",
+            "identifier": "FUTIDXNIFTY25-11-2021XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "NIFTY 25-Nov-2021",
+            "expiryDate": "25-Nov-2021",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 17575,
+            "change": -93,
+            "pChange": -0.53,
+            "volume": 75450,
+            "totalTurnover": 1327302819,
+            "value": 1327302819,
+            "premiumTurnOver": 1327302819,
+            "underlyingValue": 17525,
+            "openInterest": 4755,
+            "noOfTrades": 1507,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        }
+    ],
+    "timestamp": "20-Sep-2021 12:52:22",
+    "marketStatus": {
+        "market": "FO",
+        "marketOpenOrClose": "Open",
+        "marketCurrentTradingDate": "Sep 20,2021",
+        "marketOpenTime": "0915",
+        "marketCloseTime": "1530",
+        "marketPreviousTradingDate": "Sep 17,2021",
+        "marketNextTradingDate": "Sep 21,2021",
+        "marketStatusMessage": "Market is Open"
+    }
+}

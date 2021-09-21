@@ -1,0 +1,111 @@
+{
+    "data": [
+        {
+            "underlying": "FINNIFTY",
+            "identifier": "FUTIDXFINNIFTY30-09-2021XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "FINNIFTY 30-Sep-2021",
+            "expiryDate": "30-Sep-2021",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 18212,
+            "change": 17.15,
+            "pChange": 0.09,
+            "volume": 3000,
+            "totalTurnover": 54380790,
+            "value": 54380790,
+            "premiumTurnOver": 54380790,
+            "underlyingValue": 18168.1,
+            "openInterest": 84,
+            "noOfTrades": 75,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "FINNIFTY",
+            "identifier": "FUTIDXFINNIFTY23-09-2021XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "FINNIFTY 23-Sep-2021",
+            "expiryDate": "23-Sep-2021",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 18150,
+            "change": -20,
+            "pChange": -0.11,
+            "volume": 1360,
+            "totalTurnover": 24639405.599999998,
+            "value": 24639405.599999998,
+            "premiumTurnOver": 24639405.599999998,
+            "underlyingValue": 18168.1,
+            "openInterest": 7,
+            "noOfTrades": 34,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "FINNIFTY",
+            "identifier": "FUTIDXFINNIFTY28-10-2021XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "FINNIFTY 28-Oct-2021",
+            "expiryDate": "28-Oct-2021",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 18270,
+            "change": 8.75,
+            "pChange": 0.05,
+            "volume": 640,
+            "totalTurnover": 11627091.200000001,
+            "value": 11627091.200000001,
+            "premiumTurnOver": 11627091.200000001,
+            "underlyingValue": 18168.1,
+            "openInterest": 24,
+            "noOfTrades": 16,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "FINNIFTY",
+            "identifier": "FUTIDXFINNIFTY07-10-2021XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "FINNIFTY 07-Oct-2021",
+            "expiryDate": "07-Oct-2021",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 0,
+            "change": 0,
+            "pChange": 0,
+            "volume": 0,
+            "totalTurnover": 0,
+            "value": 0,
+            "premiumTurnOver": 0,
+            "underlyingValue": 18168.1,
+            "openInterest": 0,
+            "noOfTrades": 0,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        }
+    ],
+    "timestamp": "21-Sep-2021 13:30:31",
+    "marketStatus": {
+        "market": "FO",
+        "marketOpenOrClose": "Open",
+        "marketCurrentTradingDate": "Sep 21,2021",
+        "marketOpenTime": "0915",
+        "marketCloseTime": "1530",
+        "marketPreviousTradingDate": "Sep 20,2021",
+        "marketNextTradingDate": "Sep 22,2021",
+        "marketStatusMessage": "Market is Open"
+    }
+}

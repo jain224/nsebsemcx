@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "underlying": "NIFTY",
+            "identifier": "FUTIDXNIFTY30-09-2021XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "NIFTY 30-Sep-2021",
+            "expiryDate": "30-Sep-2021",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 17851.15,
+            "change": 18.05,
+            "pChange": 0.1,
+            "volume": 4627200,
+            "totalTurnover": 82746181632,
+            "value": 82746181632,
+            "premiumTurnOver": 82746181632,
+            "underlyingValue": 17858.3,
+            "openInterest": 249931,
+            "noOfTrades": 92087,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        },
+        {
+            "underlying": "NIFTY",
+            "identifier": "FUTIDXNIFTY28-10-2021XX0.00",
+            "instrumentType": "FUTIDX",
+            "instrument": "Index Futures",
+            "contract": "NIFTY 28-Oct-2021",
+            "expiryDate": "28-Oct-2021",
+            "optionType": "-",
+            "strikePrice": 0,
+            "lastPrice": 17880,
+            "change": 20.2,
+            "pChange": 0.11,
+            "volume": 1134800,
+            "totalTurnover": 20336387664,
+            "value": 20336387664,
+            "premiumTurnOver": 20336387664,
+            "underlyingValue": 17858.3,
+            "openInterest": 56327,
+            "noOfTrades": 22637,
+            "meta": {
+                "data": [],
+                "msg": "No Data Found"
+            }
+        }
+    ],
+    "timestamp": "24-Sep-2021 13:52:53",
+    "marketStatus": {
+        "market": "FO",
+        "marketOpenOrClose": "Open",
+        "marketCurrentTradingDate": "Sep 24,2021",
+        "marketOpenTime": "0915",
+        "marketCloseTime": "1530",
+        "marketPreviousTradingDate": "Sep 23,2021",
+        "marketNextTradingDate": "Sep 27,2021",
+        "marketStatusMessage": "Market is Open"
+    }
+}

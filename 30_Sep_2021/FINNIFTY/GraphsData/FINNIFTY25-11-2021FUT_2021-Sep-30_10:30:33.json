@@ -1,0 +1,15 @@
+{
+    "identifier": "FUTIDXFINNIFTY25-11-2021XX0.00",
+    "name": "FINNIFTY",
+    "grapthData": [
+        [
+            1633007800000,
+            18645
+        ],
+        [
+            1633009988000,
+            18645
+        ]
+    ],
+    "closePrice": 18645
+}

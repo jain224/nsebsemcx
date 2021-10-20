@@ -1,0 +1,15 @@
+{
+    "identifier": "OPTIDXBANKNIFTY02-12-2021PE39900.00",
+    "name": "BANKNIFTY",
+    "grapthData": [
+        [
+            1634721317000,
+            0
+        ],
+        [
+            1634721349000,
+            0
+        ]
+    ],
+    "closePrice": 3313.5
+}
